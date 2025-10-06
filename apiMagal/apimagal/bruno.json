@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "apimagal",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
